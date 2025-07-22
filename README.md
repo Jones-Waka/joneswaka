@@ -15,7 +15,7 @@ Cybersecurity Enthusiast | SOC Analyst building HomeLabs | [Comptia Sec+](https:
 - [Wazuh](https://wazuh.com/) – Host-based intrusion detection, log monitoring, and compliance reporting  
 - [Splunk](https://www.splunk.com/) – Platform for log collection, correlation, alerting, and analytics  
 
-### 🛡 Detection & Response  
+###  Detection & Response  
 - [Suricata](https://suricata.io/) – Network-based IDS/IPS that inspects traffic for malicious signatures  
 - [Zeek](https://www.zeek.org/) – Network security monitor for deep traffic analysis and protocol logging  
 - [UFW](https://wiki.ubuntu.com/UncomplicatedFirewall) – Simplified host-based firewall management on Linux  
@@ -49,8 +49,8 @@ Cybersecurity Enthusiast | SOC Analyst building HomeLabs | [Comptia Sec+](https:
 - [LiME](https://github.com/504ensicsLabs/LiME) – Memory acquisition tool for Linux that supports remote collection  
 - [WinPmem](https://github.com/Velocidex/WinPmem) – Windows physical memory acquisition tool used in incident response
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![Jones's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jones-Waka&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jones-Waka&layout=compact&theme=radical)
+
 
